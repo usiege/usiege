@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='center'>
-<img src='img/bg.jpg'>
+<img src='img/bg.png'>
 </p>
 
 <p align='center'>
