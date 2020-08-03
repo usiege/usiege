@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='center'>
-    <img src='https://sm.ms/image/DW1Nti6Jc3Ihx4V'>
+    <img src='https://i.loli.net/2020/08/03/DW1Nti6Jc3Ihx4V.jpg'>
 </p>
 
 <p align='center'>
