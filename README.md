@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='center'>
-<img src='img/bg.png'>
+    <img src='https://sm.ms/image/DW1Nti6Jc3Ihx4V'>
 </p>
 
 <p align='center'>
