@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/language-Objective--C-orange.svg">
 </p>
 
-|资料群|公众号|视频号|
+|QQ群|公众号|视频号|
 |:-:|:-:|:-:|
 |![qqg.png](https://s2.loli.net/2021/12/28/c4D9Aaime2Hkwnt.png)|![vx.png](https://s2.loli.net/2021/12/28/MFNTwQjHPaKqdBD.png)|![WechatIMG112.jpeg](https://s2.loli.net/2021/12/28/7neTG6LRDsKH9ZA.jpg)|
 
