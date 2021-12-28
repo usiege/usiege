@@ -12,10 +12,17 @@
     <a href="http://weibo.com/230126045">@听风的艾泽拉斯日常</a>
 </p>
 
+|QQ资料群|VX公众号|
+|-|-|
+|![qqg.png](https://s2.loli.net/2021/12/28/c4D9Aaime2Hkwnt.png)|![vx.png](https://s2.loli.net/2021/12/28/MFNTwQjHPaKqdBD.png)|
+
+
 - 📖 [主站](https://usiege.github.io)
+- 🌏 [知乎主页](https://www.zhihu.com/people/uwuneng)
 - 🌎 [简书](https://www.jianshu.com/u/8a7d7e6876ab)
 - 🌍 [CSDN](http://blog.csdn.net/jianin45)
 - 🌏 [新浪博客](http://blog.sina.com.cn/tjfcg45)
+
 
 
 <!--
