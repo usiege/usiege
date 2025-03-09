@@ -13,7 +13,7 @@
 
 
 
-- 📖 [WowCube](https://wowcube.site) 🌏 [知乎](https://www.zhihu.com/people/uwuneng) 🌎[B站](https://space.bilibili.com/38532242) 🌎 [简书](https://www.jianshu.com/u/8a7d7e6876ab) 🌍 [CSDN](http://blog.csdn.net/jianin45) 🌏 [新浪博客](http://blog.sina.com.cn/tjfcg45) <a href="http://weibo.com/230126045">@听风轻咛</a>
+- 📖 [WowCube](https://qhmage.com/wowcube) 🌏 [知乎](https://www.zhihu.com/people/uwuneng) 🌎[B站](https://space.bilibili.com/38532242) 🌎 [简书](https://www.jianshu.com/u/8a7d7e6876ab) 🌍 [CSDN](http://blog.csdn.net/jianin45) 🌏 [新浪博客](http://blog.sina.com.cn/tjfcg45) <a href="http://weibo.com/230126045">@听风轻咛</a>
 
 
 <!--
